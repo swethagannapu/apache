@@ -1,0 +1,5 @@
+name 'starter'
+description 'A basic starter cookbook'
+version '1.0.0'
+maintainer 'VamsiOrg, Inc.'
+maintainer_email 'julurivk@gmail.com'
